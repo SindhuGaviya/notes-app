@@ -1,0 +1,23 @@
+/index.js
+/confi
+/app
+  /controller
+  /models
+  /middlewares
+/node_modules
+/package.json
+
+/index.js
+/confi
+  /database.js
+  /routes.js
+/app
+  /controller
+       /notesController.js
+       /categoriesController.js
+  /models
+      /note.js
+      /category.js
+  /middlewares
+/node_modules
+
